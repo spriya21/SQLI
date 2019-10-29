@@ -1,3 +1,10 @@
+## SQL Injection
+SQL injection is a code injection technique that might destroy your database.
+
+SQL injection is one of the most common web hacking techniques.
+
+SQL injection is the placement of malicious code in SQL statements, via web page input.
+
 ## SQL Injection Example Code
 
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/fritz-c/sql-injection-demo/master/LICENSE)
